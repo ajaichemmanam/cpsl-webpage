@@ -1,0 +1,12 @@
+{
+  "slides": [
+    {
+    "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/people/default.png",
+    "text":"Test Slide 1"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/people/default.png",
+    "text":"Test Slide 2"
+    }
+  ]
+}
