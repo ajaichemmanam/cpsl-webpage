@@ -1,12 +1,44 @@
 {
   "slides": [
     {
-    "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/people/default.png",
-    "text":"Test Slide 1"
+    "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide1.png",
+    "text":"Shri A. P. M. Mohammed Hanish IAS (MD, KMRL) inaugurating ISED'18 Co-ordinated by CPSL"
     },
     {
-     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/people/default.png",
-    "text":"Test Slide 2"
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide2.png",
+    "text":"Dr. Bijoy A. Jose program chair speaking at ISED'18"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide3.png",
+    "text":"CPSL team representing CUSAT won CSAW'18"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide4.png",
+    "text":"News about CSAW'18 winners"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide5.png",
+    "text":"CPSL Director Dr. Bijoy A. Jose at the inauguration of Atal innovation lab at TocH school, Kochi"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide6.png",
+    "text":"News about Dr. Bijoy A. Jose became mentor at Atal innovation lab at TocH school Kochi"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide7.png",
+    "text":"CPSL became part of 'Kochi fights against pollution'"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide8.png",
+    "text":"CPSL Director with Ernakulam district collector K Mohammed Y Safirulla IAS on introducing pollution monitoring device"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide9.png",
+    "text":"CPSL Director receiving DST early carrier research award from metroman E. Sreedharan"
+    },
+    {
+     "url":"https://raw.githubusercontent.com/ajaichemmanam/cpsl-webpage/master/slides/slide10.png",
+    "text":""
     }
   ]
 }
